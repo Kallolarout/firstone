@@ -8,5 +8,9 @@ roti
 pasta
 chicken fry
 
+pizza
+burger
+
+
 
 thank you :)
